@@ -7,8 +7,7 @@
       "title": "URL of the page",
       "type": "string",
       "description": "The URL of website you want to get the data from.",
-      "editor": "textfield",
-      "prefill": "https://www.scrapeless.com/"
+      "default": "https://www.scrapeless.com/"
     }
   },
   "required": ["url"]
